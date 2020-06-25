@@ -15,7 +15,7 @@
 
 	<footer>
 		
-		Contacter moi
+		Contacter moi svp
 
 	</footer>
 </body>
