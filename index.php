@@ -14,7 +14,7 @@
     <p> Je fais une expérience</p>
 
 	<footer>
-		Contact
+		Contacter moi
 	</footer>
 </body>
 </html>
