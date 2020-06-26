@@ -15,7 +15,7 @@
 
 	<footer>
 		
-		Contacter moi svp
+		Contacter moi : anatole
 
 	</footer>
 </body>
